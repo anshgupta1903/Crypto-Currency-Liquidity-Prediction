@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+.cache/
+*.pickle
+*.joblib
+
+# Python egg metadata
+*.egg-info/
+*.egg
+
+# VS Code settings
+.vscode/
+
+# Data
+*.csv
+*.xlsx
+*.json
+
+# Model files
+*.h5
+*.pkl
+*.sav
+*.keras
+
+# Deployment artifacts
+instance/
+.webassets-cache
